@@ -60,4 +60,5 @@ int main() {
 	insert_at_head(head, 2);
 	add_at_end(head, 3);
 	display(head);
+	return 0;
 }
